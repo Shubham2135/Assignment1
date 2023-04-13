@@ -1,0 +1,26 @@
+body{
+    object-fit: fill;
+    background-color: rgb(109, 151, 115);
+}
+.one{ 
+    font-size:30px;
+    font-weight:700;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    float:right;
+
+}
+.two{
+    text-align: left;
+    font-weight: 400;
+    font-style: normal; 
+    color: rgb(255, 255, 255);
+    float:right;
+}
+img{
+    width: 60%; 
+    height: 745px;
+    float: left;
+    padding-top: 0%;
+    
+}
